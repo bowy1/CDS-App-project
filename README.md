@@ -1,13 +1,8 @@
-# [App name]
+# CDS App
 
-MSF 8615 Derivatives, Villanova University · Team: [names]
+MSF 8615 Derivatives, Villanova University · Team: benhennig, [teammates]
 
 **Live app:** [Streamlit link, once deployed]
-
-> **Using this template.** On this page, click **Use this template → Create a new repository**
-> (one per team), then invite your teammates. Work in that new repository, not here: a Codespace
-> opened on the template itself saves your commits as a fork of the template, which is public.
-> Then replace every [bracketed] placeholder below and delete this note.
 
 ## The question
 [One or two sentences: what decision, calculation, or risk does the app help a user understand?]
@@ -58,7 +53,7 @@ reruns from top to bottom on every click), with caching, layout and deployment.
 ## Team contributions
 | Name | GitHub username | Main contributions |
 |---|---|---|
-| | | |
+| [your name] | benhennig | Repository setup |
 
 ---
 
